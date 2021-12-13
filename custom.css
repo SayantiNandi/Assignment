@@ -1,0 +1,76 @@
+ .line
+  {
+     height: 80%;
+     width: 80%;
+ }
+.line1 {
+    height: 80%;
+    width: 80%;
+    color:white;
+}
+
+ .mar {
+     margin-left: 25px;
+ }
+
+.mad {
+    margin-left: 45px;
+}
+
+ .pad {
+     padding-top: 95px;
+  
+ }
+
+.padi {
+    padding-top: 52px;
+}
+
+.but {
+    background-color: #070b5b;
+    color: #ffffff;
+}
+
+.imagi {
+    height: 30%;
+    width: 50%;
+    border-radius: 50%;
+}
+
+.fontsize {
+    font-size:13px;
+}
+
+.fo {
+    font-size: 12px;
+    color: #565454;
+    font-family: Calibri (Body);
+}
+
+.fa {
+    font-size: 14px;
+}
+
+.ri {
+    margin-left:95px;
+    height: 43px; 
+    width:150px;
+}
+.colo{
+    color: #070b5b;
+}
+
+.des {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.desi {
+    margin-left: 20px;
+    margin-right: 90px;
+}
+
+.button1 {
+    border: 2px solid #4CAF50;
+    color: white;
+
+}
